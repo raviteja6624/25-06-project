@@ -28,9 +28,6 @@
         <members>*</members>
         <name>LightningComponentBundle</name>
     </types>
-    <types>
-        <members>*</members>
-        <name>StaticResource</name>
-    </types>
+    ravi
     <version>64.0</version>
 </Package>
