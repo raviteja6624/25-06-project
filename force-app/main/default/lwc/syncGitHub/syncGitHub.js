@@ -9,7 +9,7 @@ export default class SyncGitHub extends LightningElement {
     handleInput(event) {
         this.orgOrUser = event.target.value;
     }
-
+//HIEEEEEEEEE
     async handleSync() {
         this.isLoading = true;
         this.message = '';
